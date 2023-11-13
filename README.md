@@ -21,4 +21,7 @@ I don't know what it meant by Daemons using outdated libraries but no matter wha
 ### An error with nodejs 
 After resetting the console, I got this error trying to install nodejs. It worked the first time so I don't know where this error came from so I resetted the droplet all together. 
 ![](./Error_with_nodejs.jpg) 
-It worked again when I resetted it but I'm still getting an error with the npm install. I don't know what's happening or if it has anything to do with the laptop I'm using.
+It worked again when I resetted it but I'm still getting an error with the npm install. I don't know what's happening or if it has anything to do with the laptop I'm using. 
+
+## Fixed Errors 
+Restting the droplet seem to work since the nodejs and npm install and the pm2 install workked fine. I saw a warning but it seem to do nothing much. 
