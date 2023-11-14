@@ -29,7 +29,16 @@ Restting the droplet seem to work since the nodejs and npm install and the pm2 i
 ![](./NmpInstallSaved.jpg)  
 ![](./Pm2_works.jpg) 
 
+### The last steps 
+it took me a while to realize I was typing the git clone command in the wrong terminal, I didn't kn ow how I would missed that. But I got my respository to be cloned. I used the npm install dotenv command and seemed to work though I think I'm missing a step. The pm2 seems to work fine at first but then it gets errors. I have yet to get a notification that I scheduled for every 12 hours. 
+![](./AnotherErrorWithPm2.jpg) 
+![](./Pm2status.jpg) 
+![](./Dotenv.jpg)
+
 ## Notifications 
-The Notifications seem to work but I have yet to understand how to change the directory in the droplet. Though there was this one time I was getting notifications 10-20 minutes after class. There was another time where I was getting notifications on Friday randomly and I didn't even edit the code or anything since Thursday. 
+The Notifications seem to work but I have yet to understand how to install a dotenv file. Though there was this one time I was getting notifications 10-20 minutes after class. There was another time where I was getting notifications on Friday randomly and I didn't even edit the code or anything since Thursday. 
 ![](./Pushover_Notifs.jpg) 
-![](./FridayPushover.jpg)
+![](./FridayPushover.jpg) 
+
+## The Process 
+I found this assignment to be pretty difficult but also kinda fun and interesting. There many times I was stumped and had no idea what to do but then I would look into the resources and look thoroughly at my code to see the mistakes I made and correct them by myself. It was rewarding to see how I'm having a better grasp at the material. I'm still confused about adding a .env file to the droplet but I managed to understand everything else. Though I'm glad I was able to understand the material by myself, I still feel like I should have utilize office hours even if I couldn't find a time best suited for me the week.
