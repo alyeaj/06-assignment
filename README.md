@@ -36,9 +36,10 @@ it took me a while to realize I was typing the git clone command in the wrong te
 ![](./Dotenv.jpg)
 
 ## Notifications 
-The Notifications seem to work but I have yet to understand how to install a dotenv file. Though there was this one time I was getting notifications 10-20 minutes after class. There was another time where I was getting notifications on Friday randomly and I didn't even edit the code or anything since Thursday. 
+The Notifications work but I have yet to understand how nano files work. Though there was this one time I was getting notifications 10-20 minutes after class. There was another time where I was getting notifications on Friday randomly and I didn't even edit the code or anything since Thursday. 
 ![](./Pushover_Notifs.jpg) 
 ![](./FridayPushover.jpg) 
+![](./ItWorksPushover.jpg)
 
 ## The Process 
-I found this assignment to be pretty difficult but also kinda fun and interesting. There many times I was stumped and had no idea what to do but then I would look into the resources and look thoroughly at my code to see the mistakes I made and correct them by myself. It was rewarding to see how I'm having a better grasp at the material. I'm still confused about adding a .env file to the droplet but I managed to understand everything else. Though I'm glad I was able to understand the material by myself, I still feel like I should have utilize office hours even if I couldn't find a time best suited for me the week.
+I found this assignment to be pretty difficult but also kinda fun and interesting. There many times I was stumped and had no idea what to do but then I would look into the resources and look thoroughly at my code to see the mistakes I made and correct them by myself. It was rewarding to see how I'm having a better grasp at the material. I'm still confused about adding a .env file to the droplet but I managed to understand everything else. Though I'm glad I was able to understand the material by myself, I still feel like I should have utilize office hours even if I couldn't find a time best suited for me the week. While the process was rewarding, I wish I worked on the harder parts it earlier. It took a really long time to do.
