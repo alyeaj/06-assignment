@@ -25,3 +25,11 @@ It worked again when I resetted it but I'm still getting an error with the npm i
 
 ## Fixed Errors 
 Restting the droplet seem to work since the nodejs and npm install and the pm2 install workked fine. I saw a warning but it seem to do nothing much. 
+![](./Node_Install_Saved_After_Reset.jpg) 
+![](./NmpInstallSaved.jpg)  
+![](./Pm2_works.jpg) 
+
+## Notifications 
+The Notifications seem to work but I have yet to understand how to change the directory in the droplet. Though there was this one time I was getting notifications 10-20 minutes after class. There was another time where I was getting notifications on Friday randomly and I didn't even edit the code or anything since Thursday. 
+![](./Pushover_Notifs.jpg) 
+![](./FridayPushover.jpg)
